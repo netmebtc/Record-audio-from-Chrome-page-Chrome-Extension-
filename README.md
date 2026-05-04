@@ -4,7 +4,7 @@
 
 ### 功能
 
-* 录制 Chrome浏览器的网页音频（例如X pace、Youtube）
+* 录制 Chrome浏览器的网页音频（例如X space、Youtube）
 * Start / Stop 控制
 * 自动检测中断（共享断开自动停止）
 * 低 CPU 占用，稳定运行
